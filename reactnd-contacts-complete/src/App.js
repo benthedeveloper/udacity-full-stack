@@ -33,7 +33,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>My Contacts</h1>
+        <h1>Contacts App</h1>
         <Route
           exact
           path="/"
